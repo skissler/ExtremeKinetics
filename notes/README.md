@@ -9,3 +9,5 @@ Maybe it'd be worth considering two thresholds of infectiousness -- something li
 
 I can already think of some important extensions: how much does our commitment to the tent model matter? I imagine there are some people that might linger above the high infectiousness threshold, but the tent model can't capture that behavior and artificially shortens the time spent at high infectiousness. 
 
+Maybe it's worth treating **screening** and **isolation** separately & independently. Given a screening rate, how many infections do we miss when there's heterogeneity in the proliferation period? Given an isolation period, how many infectious people are released -- and how many days of unnecessary isolation are there -- for a fixed isolation period? How much do we gain by testing twice? How does additional surveillance help us understand the risks associated with our policy choices? 
+
