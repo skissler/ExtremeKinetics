@@ -1,5 +1,5 @@
 # Extreme Kinetics
 
-[ ] first
-[ ] second
-[ ] third
+- first
+- second
+- third
