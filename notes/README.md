@@ -15,3 +15,15 @@ Characterizing in terms of the proliferation rate might make sense here -- even 
 
 # 28 March 2025 
 
+Some things I want to get done before next week: 
+* Simulate outbreaks under a given screening and isolation policy, for different levels of variation in the proliferation and clearance phases. 
+
+An algorithm:
+* Set thresholds for detectability and infectiousness
+* Generate N trajectories 
+* Reduce trajectories to timings of detectability and infectiousness 
+* Set a screening rate and isolation period 
+* Simulate epidemics under different assumptions about variation in timing of infectiousness/etc 
+
+Given this information, separate out the number of people we don't isolate before infectious, the number of people taht leave isolation while infectious, the number of people who isolate unnecesarily, the size of the epidemic (maybe) 
+
