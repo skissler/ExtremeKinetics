@@ -11,3 +11,7 @@ I can already think of some important extensions: how much does our commitment t
 
 Maybe it's worth treating **screening** and **isolation** separately & independently. Given a screening rate, how many infections do we miss when there's heterogeneity in the proliferation period? Given an isolation period, how many infectious people are released -- and how many days of unnecessary isolation are there -- for a fixed isolation period? How much do we gain by testing twice? How does additional surveillance help us understand the risks associated with our policy choices? 
 
+Characterizing in terms of the proliferation rate might make sense here -- even though fitting to the proliferation time is easier. 
+
+# 28 March 2025 
+
